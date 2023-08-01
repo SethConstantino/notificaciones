@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "353582954162",
+    "project_id": "notificaciones-seth",
+    "storage_bucket": "notificaciones-seth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353582954162:android:64e6f9c47fe3a1cdd1bbab",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353582954162-adb0m2fnea8bbsi835onq404at7rneq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJ08abAEE5WUXBgIuc0n2LJ0MuEzsEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353582954162-adb0m2fnea8bbsi835onq404at7rneq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353582954162-m9j78abs5vasl2hoiqc76j3o03838u3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificacionesFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353582954162:android:5e2297e6429a93d4d1bbab",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353582954162-adb0m2fnea8bbsi835onq404at7rneq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJ08abAEE5WUXBgIuc0n2LJ0MuEzsEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353582954162-adb0m2fnea8bbsi835onq404at7rneq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353582954162-m9j78abs5vasl2hoiqc76j3o03838u3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificacionesFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
